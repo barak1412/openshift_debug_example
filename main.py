@@ -1,2 +1,3 @@
 
 print('yraaaa')
+s = input()
